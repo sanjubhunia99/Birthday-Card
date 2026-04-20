@@ -1,1 +1,1 @@
-<h1 class="text-center">BirthDay</h1>
+<h1>BirthDay</h1>
