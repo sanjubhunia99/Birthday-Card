@@ -187,3 +187,26 @@ canvas {
         font-size: 30px;
     }
 }
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    z-index: 200;
+    letter-spacing: 0.5px;
+    font-family: "Poppins", sans-serif;
+    background: rgba(255, 255, 255, 0.12);
+    padding: 8px 18px;
+    border-radius: 30px;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+footer span {
+    color: #ffe066;
+    font-weight: 600;
+}
